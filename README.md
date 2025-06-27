@@ -1,5 +1,5 @@
 # 💫 About Me:
-Leo Music Owner ( Discord Bot )<br>Full Stack Dev </><br>Let's Vibin
+Basic Developer and nothing.
 
 
 ## 🌐 Socials:
